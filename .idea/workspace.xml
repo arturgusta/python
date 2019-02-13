@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d38eb02-b2ff-4f51-83cf-e391d7e6edfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/python_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -66,6 +65,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +120,7 @@
     <entry file="file://$PROJECT_DIR$/python_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>

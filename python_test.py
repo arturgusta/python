@@ -1,1 +1,1 @@
-#test gita pierwsza zmiana
+#galaz1
