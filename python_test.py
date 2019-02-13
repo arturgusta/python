@@ -1,1 +1,1 @@
-#galaz1
+#wersja 1 galezi
